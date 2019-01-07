@@ -19,31 +19,13 @@ var PORT = process.env.PORT || 3000
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-//Sample Users
-
-var users = [
-    {
-        name: "Alan",
-        photo: "url",
-        scores: [
-            5,
-            4,
-            3,
-            2,
-            3,
-            5,
-            1,
-            2,
-            4,
-            1
-        ]
-    }
-]
-
-//Routes
+//HTML Routes
 var htmlRoutes = require('./app/routing/htmlRoutes');
 app.use(htmlRoutes);
 
+//API Routes
+var apiRoutes = require('./app/routing/apiRoutes');
+app.use(apiRoutes);
 
 //Listen
 app.listen(PORT, function() {
