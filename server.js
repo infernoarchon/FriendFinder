@@ -1,8 +1,8 @@
-//Require path and express
-//do html routes
-//do api/json routes
-//create forms with bootstrap and add jquery for DOM
-//post functions to create json files
+//Require path and express #
+//do html routes #
+//do api/json routes #
+//create forms with bootstrap and add jquery for DOM #
+//post functions to create json files #
 //add app logic to find compatible people
 //deploy to heroku
 
