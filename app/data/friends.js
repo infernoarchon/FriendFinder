@@ -1,7 +1,7 @@
 module.exports = [
     {
         name: "Willy Wonka",
-        photo: "https://media.giphy.com/media/4crseJ1N9JrZ6/giphy.gif",
+        photo: "https://media.giphy.com/media/wMNK4IfeH86uQ/giphy.gif",
         scores: [
             "5",
             "4",
