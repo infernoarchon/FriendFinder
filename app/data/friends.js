@@ -30,5 +30,21 @@ module.exports = [
             "1",
             "2"
         ]
+    },
+    {
+        name: "Jesus",
+        photo: "https://media.giphy.com/media/gMHFX7PEDZEHK/giphy.gif",
+        scores: [
+            "1",
+            "3",
+            "5",
+            "3",
+            "2",
+            "2",
+            "4",
+            "1",
+            "2",
+            "5"
+        ]
     }
 ]
