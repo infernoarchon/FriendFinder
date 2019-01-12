@@ -3,11 +3,11 @@
 FriendFinder is a node and express app that asks users several questions, and then matches them with another user based on their responses.
 
 ## Setup
-`cd FriendFinder`
+1. `cd FriendFinder`
 
-`npm install`
+2. `npm install`
 
-Add sample data in app/data/friends.js
+3. Add sample data in app/data/friends.js
 
 ## Backlog
 - Add validation logic to survey forms
