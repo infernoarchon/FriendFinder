@@ -13,7 +13,7 @@ FriendFinder is a node and express app that asks users several questions, and th
 
 5. Open a browser tab and go to `localhost:3000`
 
-6. To stop the server, press control + C
+6. To stop the server, Press control + C in you git bash or terminal application.
 
 ## Backlog
 - Add validation logic to survey forms
