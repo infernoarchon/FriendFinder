@@ -7,6 +7,8 @@ FriendFinder is a node and express app that asks users several questions, and th
 
 `npm install`
 
+Add sample data in app/data/friends.js
+
 ## Backlog
 - Add validation logic to survey forms
 - Find way to preserve JSON data
