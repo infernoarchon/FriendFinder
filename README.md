@@ -4,6 +4,7 @@ FriendFinder is a node and express app that asks users several questions, and th
 
 ## Setup
 `cd FriendFinder`
+
 `npm install`
 
 ## Backlog
