@@ -9,9 +9,11 @@ FriendFinder is a node and express app that asks users several questions, and th
 
 3. Add sample data in app/data/friends.js
 
-4. `node server.js`to start server.
+4. `node server.js` to start the server.
 
 5. Open a browser tab and go to `localhost:3000`
+
+6. To stop the server, press control + C
 
 ## Backlog
 - Add validation logic to survey forms
